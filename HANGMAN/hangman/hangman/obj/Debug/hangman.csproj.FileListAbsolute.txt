@@ -1,0 +1,6 @@
+C:\Users\Maciej Bedkowski\Desktop\HANGMAN\hangman\hangman\bin\Debug\hangman.exe.config
+C:\Users\Maciej Bedkowski\Desktop\HANGMAN\hangman\hangman\bin\Debug\hangman.exe
+C:\Users\Maciej Bedkowski\Desktop\HANGMAN\hangman\hangman\bin\Debug\hangman.pdb
+C:\Users\Maciej Bedkowski\Desktop\HANGMAN\hangman\hangman\obj\Debug\hangman.csprojAssemblyReference.cache
+C:\Users\Maciej Bedkowski\Desktop\HANGMAN\hangman\hangman\obj\Debug\hangman.exe
+C:\Users\Maciej Bedkowski\Desktop\HANGMAN\hangman\hangman\obj\Debug\hangman.pdb

@@ -1,0 +1,5 @@
+Ada|  26
+Mathiass|    50
+MATHI|   77
+MATH|    89
+Ada| 225
